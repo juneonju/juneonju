@@ -1,4 +1,4 @@
-### Hello, I'm José Bulhões, a frontend web development student! 😊
+### Hello! My name is Júnior, and I’m a beginner programmer. I’m always looking to learn new programming languages and improve my skills. My focus is on developing creative and efficient solutions with a practical approach to problem-solving. I believe programming is a powerful tool to turn ideas into reality.
 ### I am learning and using the following technologies on a daily basis.
 
 <div style="display: inline_block"><br/>
